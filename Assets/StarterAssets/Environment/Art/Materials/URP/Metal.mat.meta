@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d6b47a6ea5dd1242a9fc3e41d62766b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282203
+  packageName: 'XtremeFPS: First Person Controller'
+  packageVersion: 1.1.0
+  assetPath: Assets/StarterAssets/Environment/Art/Materials/URP/Metal.mat
+  uploadId: 688664
